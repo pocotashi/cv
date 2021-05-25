@@ -1,0 +1,40 @@
+body{
+  background-color: #E4D3CF;
+}
+hr{
+  border-style: dotted;
+  border-color: salmon;
+  border-width: 0 0 5px;
+  width: 5%;
+
+
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+  text-transform: uppercase;
+
+}
+
+.links:hover{
+  background-color: gold;
+}
+
+.hobby:hover{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 20px;
+  color: green;
+  text-shadow: 100px;
+
+}
+
+.info:hover{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 20px;
+  color: #99154e;
+  text-shadow: 100px;
+}
