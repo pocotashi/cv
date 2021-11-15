@@ -38,3 +38,16 @@ h3{
   color: #99154e;
   text-shadow: 100px;
 }
+
+
+img{
+  border-radius: 50%;
+}
+
+table {
+  border-spacing:  10px;
+}
+
+[type="submit"]{
+  border-radius: 25px;
+}
